@@ -20,13 +20,14 @@ This project simulates a realistic occupational health data analysis environment
    - Monthly KPI trends (absenteeism, accidents, active employees)
 📽️ **Dashboard Walkthrough Video**  
 Watch a short demo of the Power BI dashboard in action:  
-👉 [YouTube Video – Power BI Dashboard Overview](https://www.youtube.com/watch?v=O7O_9dIz7y4)
+👉 [YouTube Video – Power BI Dashboard Overview](https://www.youtube.com/watch?v=f8r0o22osJc)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=O7O_9dIz7y4" target="_blank">
-    <img src="https://img.youtube.com/vi/O7O_9dIz7y4/0.jpg" alt="Dashboard Video" width="600"/>
+  <a href="https://www.youtube.com/watch?v=f8r0o22osJc" target="_blank">
+    <img src="https://img.youtube.com/vi/f8r0o22osJc/0.jpg" alt="Dashboard Video" width="600"/>
   </a>
 </p>
+
 
 3. **Machine Learning Models in Python**  
    Using libraries such as `numpy`, `pandas`, `matplotlib`, `seaborn`, and `scikit-learn`, we developed models to:
