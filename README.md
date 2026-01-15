@@ -44,20 +44,20 @@ This project simulates a realistic occupational health data analysis environment
 ## 📂 Project Structure
 
 ```plaintext
-data/
+01_data/
 ├── employees.csv
 ├── health_events.csv
 ├── medical_evaluations.csv
 └── monthly_kpis.csv
 
-powerbi/
+02_powerbi/
 └── dashboard.pbix
 
-notebooks/
+03_notebooks/
 ├── 01_generate_synthetic_data.ipynb
 ├── 02_eda_visualization.ipynb
 └── 03_ml_models.ipynb
 
-api/
+04_api/
 ├── app.py        # FastAPI server
 └── model.pkl     # Trained ML model
