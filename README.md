@@ -50,6 +50,9 @@ data/
 ├── medical_evaluations.csv
 └── monthly_kpis.csv
 
+powerbi/
+└── dashboard.pbix
+
 notebooks/
 ├── 01_generate_synthetic_data.ipynb
 ├── 02_eda_visualization.ipynb
@@ -58,6 +61,3 @@ notebooks/
 api/
 ├── app.py        # FastAPI server
 └── model.pkl     # Trained ML model
-
-powerbi/
-└── dashboard.pbix
